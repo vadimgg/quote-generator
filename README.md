@@ -2,7 +2,8 @@
 
 A simple, elegant web application that displays random quotes with their authors. Users can generate new quotes with a click and share their favorite quotes directly to Twitter/X.
 
-![Random Quote Generator Screenshot](https://via.placeholder.com/600x400?text=Random+Quote+Generator)
+![Random Quote Generator Screenshot](./images/screenshot.png)
+
 
 ## Demo
 
